@@ -1,12 +1,15 @@
-# TypeScript-project01_number_guessing-game
+# TypeScript-project02_atm_project
 This project is developed in Typescript by using Readline-sync.
 
 #### How to play:
  
- - Enter maximum ranger, to start the game. <br />
- - Enter you guess number. <br />
- - If you guessed it then you won else you have to enter another number
+- run by npx ts-node index.ts <br />
+- Enter your Username: <br />
+- Enter your Pin Code: <br />
+- select your Account type: <br />
+- select your activity
  
  <br /><br />
  
- ![image](https://user-images.githubusercontent.com/12516089/203507865-0baac0f6-09f3-4039-b7a6-dc0b53d75883.png)
+ 
+ ![image](https://user-images.githubusercontent.com/12516089/210044596-c22e638d-c029-497d-9f89-fb1867111bf4.png)
