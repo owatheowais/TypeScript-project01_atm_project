@@ -1,0 +1,26 @@
+{
+  "name": "number_guess_game_npx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.9",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "execa": "^6.1.0",
+    "fs-extra": "^10.1.0",
+    "gitignore": "^0.7.0",
+    "inquirer": "^8.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
